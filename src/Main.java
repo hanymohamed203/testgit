@@ -8,7 +8,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome!");
-        System.out.printf("github");  //ddddd
+        System.out.printf("github");  //ddddddddddd
 
 
         for (int i = 1; i <= 5; i++) {
